@@ -95,6 +95,10 @@ footer h2 {
     color: #ffffff;
 }
 
+.maincontent img {
+    max-height: 200px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -103,10 +107,6 @@ footer h2 {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.maxheight {
-    max-height: 200px;
 }
 
 .benefits {
