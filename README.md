@@ -16,7 +16,7 @@ The following is a list of various changes made to the original code. Some minor
 - Changed various id and class tags throughout the HTML in order to allow for consolidating of the CSS
 - Greatly improved the efficiency of the CSS by consolidating whenever possible and correcting element/class/id tags when neccessary
 - Changed the layout of the CSS in order to follow best practices
-- dSome smaller changes may not be mentioned due to their inclusion in the previously mentioned changes
+- Some smaller changes may not be mentioned due to their inclusion in the previously mentioned changes
 
 ## Links
 
